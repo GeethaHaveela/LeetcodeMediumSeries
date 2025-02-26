@@ -1,2 +1,2 @@
 # LeetcodeSeries
-This series will have the leetcode problems solved by me.
+This series will have the Medium difficulty level leetcode problems solved by me.
